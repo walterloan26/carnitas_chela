@@ -1,0 +1,28 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.header{
+    background-color: black;
+    color: white;
+}
+.jumbotron{
+    height: 380px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.footer{
+    background-color: black;
+    color:white;
+    height: 115px;
+    padding-top: 50px;
+}
+.footer li{
+    list-style:none;
+    display: inline;
+}
+.footer li p{
+    display:inline ;
+    text-align: center;
+}
